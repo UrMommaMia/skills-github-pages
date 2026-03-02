@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+Frogs: Welcome to my blog!
 ---
+
+### My favorite animal
